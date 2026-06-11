@@ -1,0 +1,3 @@
+/Users/lenant/dev/casino
+/Users/lenant/dev/klask-2
+/Users/lenant/dev/so100-mujoco-sim
